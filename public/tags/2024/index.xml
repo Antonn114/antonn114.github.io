@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 on JJ&#39;s Blog</title>
+    <link>http://localhost:1313/tags/2024/</link>
+    <description>Recent content in 2024 on JJ&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 20:51:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post!</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Sat, 28 Sep 2024 20:51:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>Hello! This is my first post. I plan to do a lot more blogging when I go to college, so for now, not a lot will happen with this site, but I will update on a few things every now and then.&#xA;Till next time!&#xA;&amp;ldquo;I just realized something&amp;hellip; honestly, it kinda doesn&amp;rsquo;t matter where I go&amp;hellip; whether I&amp;rsquo;m alive or dead&amp;hellip; I&amp;rsquo;m still pretty dandy!&amp;rdquo;&#xA;- Dandy from &amp;ldquo;Space Dandy&amp;rdquo; (2014)</description>
+    </item>
+  </channel>
+</rss>

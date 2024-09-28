@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "JJ's Blog"
+theme = 'my_blog'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[[menus.main]]
+name = 'About Me'
+pageRef = '/aboutme'
+weight = 30
+
+[[menus.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 40

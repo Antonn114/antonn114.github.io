@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on JJ&#39;s Blog</title>
+    <link>http://localhost:1313/other/</link>
+    <description>Recent content in Others on JJ&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/other/aboutme/</link>
+      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/other/aboutme/</guid>
+      <description>Welcome to my blog! Here I post topics about programming, gamedev, art, retro games, AI, and more!&#xA;If you would like to contact me, feel free to send me an email or a DM on Discord!</description>
+    </item>
+  </channel>
+</rss>
